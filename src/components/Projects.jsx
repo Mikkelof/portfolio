@@ -12,15 +12,11 @@ import FaGithub from 'react-icons/fa'
 const Projects = () => {
   return (
     <div className='w-full'>
-
-        //TODO: Adjust height (h-[x]) to fit the page after adding all projects
-
-        <div className='w-full h-[4200px] bg-slate-900 absolute mix-blend-overlay'></div>
-        <div className='max-w-[1500px] mx-auto py-12'>
+        <div className='mx-auto py-12 bg-slate-900'>
             <div className='text-center py-8 text-slate-300'>
                 <h2 className='text-5xl font-bold'>Projects</h2>
             </div>
-            <div className='wrap w-5/6 mx-auto relative'>
+            <div className='wrap w-5/6 mx-auto max-w-[1500px]'>
                 <div className='grid grid-cols-10 py-12'>
                     <div className='row-span-full col-start-1 col-span-8 self-center'>
                         <img src={portfolio} alt="/" />
