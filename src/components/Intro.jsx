@@ -9,14 +9,12 @@ import {
 } from 'react-icons/fa'
 
 import {
-    GrDocumentText
-} from 'react-icons/gr'
+    CgFileDocument
+} from 'react-icons/cg'
 
 import {
     FiMail
 } from 'react-icons/fi'
-
-//TODO: Hover effects and onClick for contact icons
 
 const Intro = () => {
   return (
@@ -27,10 +25,10 @@ const Intro = () => {
                     <div className='flex flex-col py-2 bg-zinc-300 border border-slate-300
                     rounded-xl text-center shadow-xl max-w-[240px]'>
                         <div className='flex justify-between flex-wrap'>
-                            <FiMail size={40} />
-                            <FaGithub size={40} />
-                            <FaLinkedin size={40} />
-                            <GrDocumentText size={40} />
+                            <a href="mailto:mikkel.ofrim@gmail.com" rel="noopener noreferrer" target="_blank"><FiMail size={40} className="hover:text-blue-900" /></a>
+                            <a href="https://github.com/Mikkelof" rel="noopener noreferrer" target="_blank"><FaGithub size={40} className="hover:text-blue-900" /></a>
+                            <a href="https://www.linkedin.com/in/mikkelofrim/" rel="noopener noreferrer" target="_blank"><FaLinkedin size={40} className="hover:text-blue-900" /></a>
+                            <a href="" rel="noopener noreferrer" target="_blank"><CgFileDocument size={40} className="hover:text-blue-900" /></a>
                         </div>
                     </div>
                 </div>
