@@ -49,8 +49,8 @@ const Projects = () => {
                     <div className='row-span-full col-span-4 col-end-11 self-center
                     bg-white text-slate-900 m-4 p-4 rounded-xl shadow-2xl border border-slate-900'>
                         <p className='text-4xl py-3 flex text-center'>NTNUI Sprint<span className='text-lg text-slate-500 flex flex-col justify-end px-2'>02.2021-01.2022</span></p>
-                        <p className='py-2'>I was working as a backend developer to help create a member system for the over 15,000 members of NTNUI. I mostly used Django along with getting 
-                        experience with various DevOps-technologies.</p>
+                        <p className='py-2'>I was doing volunteer-work as a backend developer to help create a member system for the over 15,000 members of NTNUI. 
+                        I mostly used Django along with getting exposure to various DevOps-technologies.</p>
                     </div>
                 </div>
                 <div className='grid grid-cols-10 py-12'>

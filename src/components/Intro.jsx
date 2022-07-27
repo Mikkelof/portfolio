@@ -28,7 +28,7 @@ const Intro = () => {
                             <a href="mailto:mikkel.ofrim@gmail.com" rel="noopener noreferrer" target="_blank"><FiMail size={40} className="hover:text-blue-900" /></a>
                             <a href="https://github.com/Mikkelof" rel="noopener noreferrer" target="_blank"><FaGithub size={40} className="hover:text-blue-900" /></a>
                             <a href="https://www.linkedin.com/in/mikkelofrim/" rel="noopener noreferrer" target="_blank"><FaLinkedin size={40} className="hover:text-blue-900" /></a>
-                            <a href="" rel="noopener noreferrer" target="_blank"><CgFileDocument size={40} className="hover:text-blue-900" /></a>
+                            <a href="https://docs.google.com/document/d/1qrk4TIpIFDbpqv69nXbZEA3YhcvoFS_gSpk8t2yqwsg/edit?usp=sharing" rel="noopener noreferrer" target="_blank"><CgFileDocument size={40} className="hover:text-blue-900" /></a>
                         </div>
                     </div>
                 </div>
