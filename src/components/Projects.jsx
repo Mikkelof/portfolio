@@ -6,6 +6,7 @@ import sprint from '../assets/Sprint.png'
 import booking from '../assets/Booking.jpg'
 import drikkelek from '../assets/Drikkelek.jpg'
 import blodsukkerkalk from '../assets/Blodsukkerkalk.png'
+import todolist from '../assets/Todolist.png'
 
 import {FaGithub, FaPlay} from 'react-icons/fa'
 
@@ -17,6 +18,19 @@ const Projects = () => {
                 <h2 className='text-5xl font-bold'>Projects</h2>
             </div>
             <div className='wrap w-5/6 mx-auto max-w-[1500px]'>
+                <div className='grid grid-cols-10 py-12'>
+                    <div className='row-span-full col-end-11 col-span-8 self-center'>
+                        <img src={todolist} alt="/" />
+                    </div>
+                    <div className='row-span-full col-span-4 col-start-1 self-center
+                    bg-white text-slate-900 m-4 p-4 rounded-xl shadow-2xl border border-slate-900'>
+                        <p className='text-4xl py-3 flex text-center'>Todo list app<span className='text-lg text-slate-500 flex flex-col justify-end px-2'>10.2022</span></p>
+                        <p className='py-2'>This was a project in the subject IDATT2506 at NTNU. The task was to create a cross platform to-do list application. I made this using React Native. Each
+                        to-do list has zero or many tasks. Each task can be marked as done or ongoing. All the data is stored locally on the device and will be saved when restaring the app/device.</p>
+                        <a href='https://github.com/Mikkelof/IDATT2506-App-Project' rel="noopener noreferrer" target="_blank" className='uppercase flex bg-slate-900 border border-slate-900 hover:bg-transparent hover:text-slate-900 
+                        rounded-md text-white p-2 drop-shadow-md max-w-[168px]'><FaGithub className='h-6' /> <span className='px-1'>View on github</span></a>
+                    </div>
+                </div>
                 <div className='grid grid-cols-10 py-12'>
                     <div className='row-span-full col-start-1 col-span-8 self-center'>
                         <img src={portfolio} alt="/" />
