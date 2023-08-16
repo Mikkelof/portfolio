@@ -1,21 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.5d70ad64.css",
-    "main.js": "/portfolio/static/js/main.e52494d3.js",
+    "main.css": "/portfolio/static/css/main.ebf59c5f.css",
+    "main.js": "/portfolio/static/js/main.c83f06e3.js",
     "static/media/Blodsukkerkalk.png": "/portfolio/static/media/Blodsukkerkalk.2bbd594e195f280c417b.png",
     "static/media/Todolist.png": "/portfolio/static/media/Todolist.3045ac77a11f107657d9.png",
     "static/media/person.png": "/portfolio/static/media/person.e7d9f5ffbc2820929dec.png",
+    "static/media/Minside.png": "/portfolio/static/media/Minside.c116c31b07b1db67d40e.png",
+    "static/media/nda.png": "/portfolio/static/media/nda.cab6e0e2808b68a5f86c.png",
     "static/media/Onion.png": "/portfolio/static/media/Onion.f748bb50615d0fb2e857.png",
     "static/media/Sprint.png": "/portfolio/static/media/Sprint.93b087ec3493d5e82d7f.png",
     "static/media/Booking.jpg": "/portfolio/static/media/Booking.4758176165109e69610c.jpg",
     "static/media/Portfolio.png": "/portfolio/static/media/Portfolio.d51c2d3144f9d3f67b9a.png",
     "static/media/Drikkelek.jpg": "/portfolio/static/media/Drikkelek.13a9dde12b68daa986d8.jpg",
     "index.html": "/portfolio/index.html",
-    "main.5d70ad64.css.map": "/portfolio/static/css/main.5d70ad64.css.map",
-    "main.e52494d3.js.map": "/portfolio/static/js/main.e52494d3.js.map"
+    "main.ebf59c5f.css.map": "/portfolio/static/css/main.ebf59c5f.css.map",
+    "main.c83f06e3.js.map": "/portfolio/static/js/main.c83f06e3.js.map"
   },
   "entrypoints": [
-    "static/css/main.5d70ad64.css",
-    "static/js/main.e52494d3.js"
+    "static/css/main.ebf59c5f.css",
+    "static/js/main.c83f06e3.js"
   ]
 }
