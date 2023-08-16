@@ -50,7 +50,7 @@ const Projects = () => {
                     <div className='row-span-full col-span-4 col-end-11 self-center items-center
                     bg-white text-slate-900 m-4 p-4 rounded-xl shadow-2xl border border-slate-900'>
                         <p className='text-4xl py-3 flex text-center'>NDA<span className='text-lg text-slate-500 flex flex-col justify-end px-2'>05.2023</span></p>
-                        <p className='py-2'>The bachelor's thesis for me and a classmate was creating a system for generating, sending, storing and displaying non-disclosure agreements for all the volunteers in NTNUI. This was made using Node.js, React and MongoDB to mention the major technologies.</p>
+                        <p className='py-2'>The bachelor's thesis for me and a classmate was creating a system for generating, sending, storing and displaying non-disclosure agreements for all the volunteers in NTNUI. This was made using TypeScript, Node.js, React and MongoDB to mention the major technologies.</p>
                         <div className='flex mt-4'>
                             <Button
                             href='https://github.com/NTNUI/nda'
