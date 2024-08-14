@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.ebf59c5f.css",
-    "main.js": "/portfolio/static/js/main.d547225d.js",
+    "main.css": "/portfolio/static/css/main.309060d0.css",
+    "main.js": "/portfolio/static/js/main.e1e82f03.js",
     "static/media/Blodsukkerkalk.png": "/portfolio/static/media/Blodsukkerkalk.2bbd594e195f280c417b.png",
     "static/media/Todolist.png": "/portfolio/static/media/Todolist.3045ac77a11f107657d9.png",
     "static/media/Landinfo.png": "/portfolio/static/media/Landinfo.9a5c7bc535fc1a2d779c.png",
@@ -14,11 +14,11 @@
     "static/media/Portfolio.png": "/portfolio/static/media/Portfolio.d51c2d3144f9d3f67b9a.png",
     "static/media/Drikkelek.jpg": "/portfolio/static/media/Drikkelek.13a9dde12b68daa986d8.jpg",
     "index.html": "/portfolio/index.html",
-    "main.ebf59c5f.css.map": "/portfolio/static/css/main.ebf59c5f.css.map",
-    "main.d547225d.js.map": "/portfolio/static/js/main.d547225d.js.map"
+    "main.309060d0.css.map": "/portfolio/static/css/main.309060d0.css.map",
+    "main.e1e82f03.js.map": "/portfolio/static/js/main.e1e82f03.js.map"
   },
   "entrypoints": [
-    "static/css/main.ebf59c5f.css",
-    "static/js/main.d547225d.js"
+    "static/css/main.309060d0.css",
+    "static/js/main.e1e82f03.js"
   ]
 }
