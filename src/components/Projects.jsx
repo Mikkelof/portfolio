@@ -9,6 +9,7 @@ import blodsukkerkalk from '../assets/Blodsukkerkalk.png'
 import todolist from '../assets/Todolist.png'
 import nda from '../assets/nda.png'
 import minside from '../assets/Minside.png'
+import landinfo from '../assets/Landinfo.png'
 
 import {FaGithub, FaPlay} from 'react-icons/fa'
 
@@ -32,14 +33,26 @@ const Projects = () => {
             </div>
             <div className='wrap w-5/6 mx-auto max-w-[1500px]'>
             <div className='grid grid-cols-10 py-12'>
+                    <div className='row-span-full col-start-1 col-span-8 self-center'>
+                        <img src={landinfo} alt="/" />
+                    </div>
+                    <div className='grid grid-cols-10 py-12'>
+                </div>
+                    <div className='row-span-full col-span-4 col-end-11 self-center items-center
+                    bg-white text-slate-900 m-4 p-4 rounded-xl shadow-2xl border border-slate-900'>
+                        <p className='text-4xl py-3 flex text-center'>Computas/Landinfo<span className='text-lg text-slate-500 flex flex-col justify-end px-2'>07.2024</span></p>
+                        <p className='py-2'>The summer of 2024 was spent working for Computas, on an assignment from Landinfo, a subsidiary of UDI. Our task was to improve the information finding in their system by creating a new user interface, and using Azure for implementing semantic rankings and relevant AI generated responses</p>
+                    </div>
+                </div>
+                <div className='grid grid-cols-10 py-12'>
                     <div className='row-span-full col-end-11 col-span-8 self-center'>
-                            <img src={minside} alt="/" />
-                        </div>
-                        <div className='row-span-full col-span-4 col-start-1 self-center
-                        bg-white text-slate-900 m-4 p-4 rounded-xl shadow-2xl border border-slate-900'>
-                            <p className='text-4xl py-3 flex text-center'>Skatteetaten Min Side<span className='text-lg text-slate-500 flex flex-col justify-end px-2'>07.2023</span></p>
-                            <p className='py-2'>During the summer of 2023 I spent eight very educational weeks working at Skatteetaten in Oslo. Here I worked as a backend developer on a project on min side. Here I used Spring Boot, SQL along with various other technologies</p>
-                        </div>
+                        <img src={minside} alt="/" />
+                    </div>
+                    <div className='row-span-full col-span-4 col-start-1 self-center
+                    bg-white text-slate-900 m-4 p-4 rounded-xl shadow-2xl border border-slate-900'>
+                        <p className='text-4xl py-3 flex text-center'>Skatteetaten Min Side<span className='text-lg text-slate-500 flex flex-col justify-end px-2'>07.2023</span></p>
+                        <p className='py-2'>During the summer of 2023 I spent eight very educational weeks working at Skatteetaten in Oslo. Here I worked as a backend developer on a project on min side. Here I used Spring Boot, SQL along with various other technologies</p>
+                    </div>
                 </div>
                 <div className='grid grid-cols-10 py-12'>
                     <div className='row-span-full col-start-1 col-span-8 self-center'>
