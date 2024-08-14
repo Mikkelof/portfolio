@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.ebf59c5f.css",
-    "main.js": "/portfolio/static/js/main.9c1d360a.js",
+    "main.js": "/portfolio/static/js/main.d547225d.js",
     "static/media/Blodsukkerkalk.png": "/portfolio/static/media/Blodsukkerkalk.2bbd594e195f280c417b.png",
     "static/media/Todolist.png": "/portfolio/static/media/Todolist.3045ac77a11f107657d9.png",
+    "static/media/Landinfo.png": "/portfolio/static/media/Landinfo.9a5c7bc535fc1a2d779c.png",
     "static/media/person.png": "/portfolio/static/media/person.e7d9f5ffbc2820929dec.png",
     "static/media/Minside.png": "/portfolio/static/media/Minside.c116c31b07b1db67d40e.png",
     "static/media/nda.png": "/portfolio/static/media/nda.cab6e0e2808b68a5f86c.png",
@@ -14,10 +15,10 @@
     "static/media/Drikkelek.jpg": "/portfolio/static/media/Drikkelek.13a9dde12b68daa986d8.jpg",
     "index.html": "/portfolio/index.html",
     "main.ebf59c5f.css.map": "/portfolio/static/css/main.ebf59c5f.css.map",
-    "main.9c1d360a.js.map": "/portfolio/static/js/main.9c1d360a.js.map"
+    "main.d547225d.js.map": "/portfolio/static/js/main.d547225d.js.map"
   },
   "entrypoints": [
     "static/css/main.ebf59c5f.css",
-    "static/js/main.9c1d360a.js"
+    "static/js/main.d547225d.js"
   ]
 }
